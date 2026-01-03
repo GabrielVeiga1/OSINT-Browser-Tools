@@ -52,7 +52,7 @@ Ferramentas para consulta e auditoria de certificados digitais.
 📎**Outros**
 Ferramentas que fogem das categorias principais, mas ainda assim são úteis.
 
-📘 **Estrutura OSINT**
+📘 **Estrutura OSINT** 
 Materiais educativos, frameworks, referências e guias de estudo.
 
 ## 🙌 Créditos e agradecimentos
