@@ -8,22 +8,22 @@ O objetivo do projeto é fornecer um ponto de acesso rápido, educativo e ético
 Você pode importar o arquivo osinttoolsnavbar.html diretamente para seu navegador (Chrome, Firefox, Edge, Brave, etc). Veja como:
 
 🔹 Google Chrome ou Brave
-Acesse chrome://bookmarks/
-Clique no menu de três pontos (⋮)
-Escolha Importar favoritos
-Selecione o arquivo osinttoolsnavbar.html
+* Acesse chrome://bookmarks/
+* Clique no menu de três pontos (⋮)
+* Escolha Importar favoritos
+* Selecione o arquivo osinttoolsnavbar.html
 
 🔹 Mozilla Firefox
-Pressione Ctrl + Shift + B para abrir a Biblioteca de Favoritos
-Clique em Importar e Backup (canto superior)
-Selecione Importar favoritos do HTML...
-Escolha o arquivo osinttoolsnavbar.html
+* Pressione Ctrl + Shift + B para abrir a Biblioteca de Favoritos
+* Clique em Importar e Backup (canto superior)
+* Selecione Importar favoritos do HTML...
+* Escolha o arquivo osinttoolsnavbar.html
 
 🔹 Microsoft Edge
-Vá para edge://favorites/
-Clique no menu de três pontos (⋮)
-Selecione Importar favoritos
-Escolha a opção de arquivo HTML
+* Vá para edge://favorites/
+* Clique no menu de três pontos (⋮)
+* Selecione Importar favoritos
+* Escolha a opção de arquivo HTML
 
 ## 🗂️ Categorias do Kit
 Os favoritos estão organizados nas seguintes pastas:
