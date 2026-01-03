@@ -58,11 +58,11 @@ Materiais educativos, frameworks, referências e guias de estudo.
 ## 🙌 Créditos e agradecimentos
 Este projeto foi possível graças à generosidade de comunidades e iniciativas que compartilharam conhecimento de forma aberta. Nossos mais sinceros agradecimentos a:
 
-> 🔍 Caipora (Brasil) – Curadoria original de ferramentas OSINT no cenário nacional
-> 🌐 TraceLabs – OSINT Search Party Bookmarks, estrutura refinada e internacional
-> 🇧🇷 OSINT Brazuca – Coletâneas locais e iniciativas brasileiras em OSINT
-> 🚀 OSINT Awesome – Listagem internacional de ferramentas OSINT no GitHub
-> 🧰 OSINTkit Braisl - Curadoria nacional de ferramentas de OSINT
+> * 🔍 Caipora (Brasil) – Curadoria original de ferramentas OSINT no cenário nacional
+> * 🌐 TraceLabs – OSINT Search Party Bookmarks, estrutura refinada e internacional
+> * 🇧🇷 OSINT Brazuca – Coletâneas locais e iniciativas brasileiras em OSINT
+> * 🚀 OSINT Awesome – Listagem internacional de ferramentas OSINT no GitHub
+> * 🧰 OSINTkit Braisl - Curadoria nacional de ferramentas de OSINT
 Este projeto se inspira, adapta e complementa essas fontes com curadoria própria, revisão de duplicatas e tradução de categorias para o português.
 
 
